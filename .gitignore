@@ -5,3 +5,6 @@ __pycache__
 out*
 *.egg-info
 *.ini
+checkpoints
+*.jpg
+*.png
